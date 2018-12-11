@@ -1,0 +1,24 @@
+{
+  "name": "answers-to-microservices-security-questions",
+  "version": "1.0.0",
+  "description": "[Microservices Security: All The Questions You Should Be Asking](http://www.grahamlea.com/2015/07/microservices-security-questions/) is a great post talking about the security problems in microservice, if you are going to apply microservice and most of them are facing to Cloud Native Platform, the security is the thing you can't leave behind.",
+  "main": "book.js",
+  "dependencies": {
+    "easy-pdf-merge": "^0.2.0",
+    "markdown-pdf": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wombat-bros-sisters/answers-to-microservices-security-questions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wombat-bros-sisters/answers-to-microservices-security-questions/issues"
+  },
+  "homepage": "https://github.com/wombat-bros-sisters/answers-to-microservices-security-questions#readme"
+}
